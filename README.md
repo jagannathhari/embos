@@ -8,7 +8,6 @@ A simple Note taking app
 
 ```
 gcc -o nob nob.c
-
 ```
 ```
 ./nob
